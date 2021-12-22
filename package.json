@@ -1,8 +1,7 @@
-{
+{"engines": {
+    "node": "X.Y.Z"
+},
   "dependencies": {
     "express": "^4.17.2"
-  },
-  "engines": {
-    "node": "X.Y.Z"
   }
 }
